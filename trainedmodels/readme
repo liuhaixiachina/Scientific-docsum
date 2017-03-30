@@ -1,0 +1,10 @@
+To use the model:
+1. for BSWE:
+# Specify Word vector dimensionality
+model_name = "trainedmodels/pos_neg.txt-round-4"
+model=Word2Vec.load_word2vec_format(model_name, binary=False) # for text format
+
+2. for other models (binary file):
+# Specify Word vector dimensionality
+model_name = "trainedmodels/ACL300"
+model = Word2Vec.load(model_name) # for binary format
