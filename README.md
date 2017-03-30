@@ -13,6 +13,7 @@ This word closed followed the research track : argumentative zoning as scientifi
 }
 
 The original dataset was from: http://www.cl.cam.ac.uk/~sht25/AZ_corpus.html
+To train new word2vec models, please refer to: https://github.com/wendykan/DeepLearningMovies (credits)
 
 The main contribution of this work is to apply word2vec on argumentative sentences classification. 
 Differenct word2vec models were trained and compared. 
