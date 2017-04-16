@@ -1,0 +1,1 @@
+d={'AIM':1,'CTR':2,'OWN':3,'BKG':4,'OTH':5,'BAS':6,'TXT':7}
